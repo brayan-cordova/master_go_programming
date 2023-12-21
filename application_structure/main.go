@@ -14,8 +14,6 @@ const secondsInHour = 3600
 // Go uses brace brackets to delimit code blocks
 func main(){
 	
-    // Println() function prints out a line to stdout
-    // It belongs to package fmt
 	fmt.Println("Hello Go World...!!")
 	distance := 60.8 // distance in km
 	fmt.Printf("The distance in miles is %f \n", distance * 0.621)
